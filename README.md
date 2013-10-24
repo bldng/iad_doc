@@ -19,4 +19,4 @@ then add
 alias iad_doc="iad_doc.sh"
 ```
 
-to your ~/.zshrc or ~/.bashrc:
+to your ~/.zshrc or ~/.bashrc.
